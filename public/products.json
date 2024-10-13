@@ -1,0 +1,23 @@
+[
+  {
+    "codigo": "001",
+    "descripcion": "Camiseta",
+    "precio": 19.99,
+    "stock": 50,
+    "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "codigo": "002",
+    "descripcion": "Pantalón",
+    "precio": 39.99,
+    "stock": 30,
+    "imagen": "https://images.unsplash.com/photo-1541099649105-f69ad21f3246?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  },
+  {
+    "codigo": "003",
+    "descripcion": "Zapatos",
+    "precio": 59.99,
+    "stock": 20,
+    "imagen": "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+  }
+]
